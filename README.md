@@ -1,4 +1,5 @@
 # MetodeNumerik
+
 Assigment From Pak Oddy
 def f(x):
     return x**3 - x - 2
