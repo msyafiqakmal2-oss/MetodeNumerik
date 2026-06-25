@@ -20,7 +20,7 @@ def bisection(a, b, error=0.0001):
 
     return (a + b) / 2
 
-print      ntar hapus ("Akar:", bisection(1, 2))
+print("Akar:", bisection(1, 2))
 
 Numerical Methods (Metode Numerik) are a branch of Mathematics that focuses on solving problems using approximation techniques instead of exact analytical solutions. These methods are especially important when problems are too complex to solve using standard formulas or symbolic manipulation.
 
