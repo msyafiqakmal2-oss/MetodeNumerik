@@ -35,7 +35,7 @@ This approach is heavily used in Computer Science, engineering, physics, and dat
 
 Why Do We Need Numerical Methods?
 
-Many mathematical problems cannot be solved using exact formulas. For example:
+Many many many mathematical problems cannot be solved using exact formulas. For example:
 
 > Finding roots of nonlinear equations
 > Solving large systems of equations
