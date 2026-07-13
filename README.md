@@ -42,4 +42,4 @@ Many many many mathematical problems cannot be solved using exact formulas. For 
 > Integrating functions that have no closed-form solution
 > Simulating real-world systems (weather, traffic, economics)
 
-Numerical methods allow computers to approximate solutions efficiently using algorithms. and good
+Numerical methods allow  computers to approximate solutions efficiently using algorithms. and good
