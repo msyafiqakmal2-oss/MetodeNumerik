@@ -6,7 +6,7 @@ def f(x):
 
 def bisection(a, b, error=0.0001):
     if f(a) * f(b) >= 0:
-        print("Nilai a dan b tidak memenuhi syarat")
+        print("Nilai a dan b tidak  memenuhi syarat")
         return 
 
     while (b - a) / 2 > error:
