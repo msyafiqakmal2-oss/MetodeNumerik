@@ -1,4 +1,4 @@
-# MetodeNumerik
+ # MetodeNumerik
 
 Assigment From Pak Oddy
 def f(x):
