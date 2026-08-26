@@ -22,7 +22,7 @@ def bisection(a, b, error=0.0001):
 
 print("Akar:", bisection(1, 2))
 
-Numerical Methods (Metode Numerik) are a branch of Mathematics that focuses on solving problems using approximation techniques instead of exact analytical solutions. These methods are especially important when problems are too complex to solve using standard formulas or symbolic manipulation.
+Numerical Methods (Metode Numerik)are a branch of Mathematics that focuses on solving problems using approximation techniques instead of exact analytical solutions. These methods are especially important when problems are too complex to solve using standard formulas or symbolic manipulation.
 
 In simple terms , numerical methods are are step-by-step computational procedures used to find approximate solutions to mathematical problems. Instead of solving equations exactly (like in algebra), we use algorithms that produce close enough answers.
 
