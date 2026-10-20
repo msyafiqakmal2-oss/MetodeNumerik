@@ -4,7 +4,6 @@ Assigment From Pak Oddy
 def f(x): 
     return x 3 - x - 2
 
-
 def bisection(a, b, error=0.0001):
     if f(a) * f(b) >= 0:
         print("Nilai a dan b tidak memenuhi syarat")
