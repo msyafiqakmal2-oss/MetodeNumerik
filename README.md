@@ -1,6 +1,6 @@
  # MetodeNumerik
 
-Assigment From Pak Oddy
+Assigment From ak Oddy
 def f(x): 
     return x 3 - x - 2
 
